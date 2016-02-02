@@ -33,7 +33,7 @@ todos los participantes a que contribuyan en la mayor medida, nos gustaría sabe
 la longevidad de esta comunidad.
 * Ejercita la consideración y el respeto en tus comunicaciones y acciones.
 * Intenta colaborar en lugar de generar conflicto.
-* Absténte de adoptar una conducta y un lenguaje degradantes, discriminatorios,
+* Abstente de adoptar una conducta y un lenguaje degradantes, discriminatorios,
 abusivos o acosadores.
 * Sé consciente de tu entorno y de tus compañeros participantes. Alerta a 
 líderes de la comunidad si notas una situación peligrosa, alguien en apuros, o 
@@ -41,7 +41,7 @@ violaciones de este _Código de Conducta_, incluso si parecen intrascendentes.
 
 ## 4. Comportamiento inaceptable
 
-Comportamientos inaceptables incluyen: intimidación, acoso, abuso,discriminación, comunicación despectiva o degradante o acciones por cualquier 
+Comportamientos inaceptables incluyen: intimidación, acoso, abuso, discriminación, comunicación despectiva o degradante o acciones por cualquier 
 participante en nuestra comunidad ya sea en internet, en todos los eventos 
 relacionados y en las comunicaciones uno-a-uno que se realizan en el contexto de los negocios de la comunidad. Es posible que los lugares para eventos
 comunitarios sean de uso compartido con los miembros del público; por favor ser respetuoso con todos aquellos que los frecuentan.
@@ -103,7 +103,7 @@ confianza; peor aún, puede conducir a que personas se alejen de la comunidad en
 
 De la misma forma, si alguien está en desacuerdo con algo que usted dijo o hizo, resista el impulso de estar a la defensiva. Simplemente pare de hacer o decir lo que fuera que causó la queja y pida disculpas. Hay buenas probabilidades de que usted se pudo haber comunicado mejor, incluso si usted siente que fue malinterpretado o injustamente acusado, - recuerde que es su responsabilidad hacer que sus compañeras y compañeros de `MonteríaJS` estén cómodos.
 
-Todos buscamos harmonía y estamos aquí, ante todo, porque queremos hablar de tecnologías que nos gustan. Por lo general, la gente está dispuesta a asumir buenas intenciones y perdonar, siempre y cuando usted gane su confianza y
+Todos buscamos armonía y estamos aquí, ante todo, porque queremos hablar de tecnologías que nos gustan. Por lo general, la gente está dispuesta a asumir buenas intenciones y perdonar, siempre y cuando usted gane su confianza y
 actúe de forma honrada.
 
 [Adaptado de la Política de Moderación de Rust](https://github.com/rust-lang/rust/wiki/Note-development-policy#moderation)
